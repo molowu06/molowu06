@@ -10,7 +10,7 @@ Currently seeking Software Engineering Co-op opportunities for January-June 2026
 - Building a medication tracking app with biometric authentication
 
 ### Movie Recommendation System
-*In Progresst* | Python, pandas, numpy, scikit-learn, Streamlit
+*In Progress* | Python, pandas, numpy, scikit-learn, Streamlit
 - A Python-based recommendation system using content-based filtering
 
 ## 💻 Tech Stack
@@ -31,6 +31,8 @@ Currently seeking Software Engineering Co-op opportunities for January-June 2026
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+
 <a href="https://github.com/molowu06">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=molowu06&show_icons=true&theme=midnight-purple&hide=stars&include_all_commits=true&count_private=true" />
 </a>
