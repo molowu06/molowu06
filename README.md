@@ -1,6 +1,7 @@
 ## Hey! I'm Mimo 👋
 
 I'm a second year Computer Science and Computer Engineering student at Northeastern University.
+Currently seeking Software Engineering Co-op opportunities for January-June 2026!
 
 ## 🚀 Current Projects
 
@@ -30,6 +31,9 @@ I'm a second year Computer Science and Computer Engineering student at Northeast
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=molowu06&show_icons=true&theme=dark&hide=stars&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=molowu06&layout=compact&theme=dark)
+<a href="https://github.com/molowu06">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=molowu06&show_icons=true&theme=dark&hide=stars&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/molowu06">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=molowu06&layout=compact&theme=dark" />
+</a>
