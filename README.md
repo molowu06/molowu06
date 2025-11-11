@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm molowu06! 👋
 
-<!--
-**molowu06/molowu06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer interested in building innovative solutions and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+## 🔭 What I'm Currently Working On
+
+- Building and contributing to open source projects
+- Expanding my development skills
+- Learning new technologies and best practices
+
+## 🌱 What I'm Learning
+
+- Modern development workflows
+- Software engineering best practices
+- Collaborative development with Git and GitHub
+
+## 📊 GitHub Stats
+
+![molowu06's GitHub stats](https://github-readme-stats.vercel.app/api?username=molowu06&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+Feel free to connect with me through GitHub!
+
+---
+
+⭐️ From [molowu06](https://github.com/molowu06)
