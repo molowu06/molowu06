@@ -32,8 +32,8 @@ Currently seeking Software Engineering Co-op opportunities for January-June 2026
 
 ---
 <a href="https://github.com/molowu06">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=molowu06&show_icons=true&theme=dark&hide=stars&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=molowu06&show_icons=true&theme=midnight-purple&hide=stars&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/molowu06">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=molowu06&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=molowu06&layout=compact&theme=midnight-purple" />
 </a>
