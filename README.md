@@ -5,13 +5,13 @@ Currently seeking Software Engineering Co-op opportunities for January-June 2026
 
 ## 🚀 Current Projects
 
+### Maps Wrapped
+*In Progress* | Python, FastAPI, React
+- A "Spotify Wrapped" style visualization for your location history.
+
 ### PillMind
 *In Progress* | TypeScript, React Native, Expo
 - Building a medication tracking app with biometric authentication
-
-### Movie Recommendation System
-*In Progress* | Python, pandas, numpy, scikit-learn, Streamlit
-- A Python-based recommendation system using content-based filtering
 
 ## 💻 Tech Stack
 
