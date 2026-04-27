@@ -1,17 +1,14 @@
 ## Hey! I'm Mimo 👋
 
-I'm a second year Computer Science and Computer Engineering student at Northeastern University.
-Currently seeking Software Engineering Co-op opportunities for January-June 2026!
+I'm a rising 3rd year Computer Science and Computer Engineering student at Northeastern University.
+
+Incoming Software Engineering Co-op @ Chewy (Summer 2026)
 
 ## 🚀 Current Projects
 
 ### Maps Wrapped
 *In Progress* | Python, FastAPI, React
 - A "Spotify Wrapped" style visualization for your location history.
-
-### PillMind
-*In Progress* | TypeScript, React Native, Expo
-- Building a medication tracking app with biometric authentication
 
 ## 💻 Tech Stack
 
